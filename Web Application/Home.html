@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign to Speech Translator</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #e9ecef;
+            margin: 0;
+            padding: 0;
+            color: #343a40;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #495057;
+            font-size: 28px;
+        }
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        .file-upload {
+            background-color: #17a2b8;
+            color: #ffffff;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .file-upload:hover {
+            background-color: #138496;
+        }
+        .submit-btn {
+            background-color: #28a745;
+            color: #ffffff;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            margin-top: 15px;
+        }
+        .submit-btn:hover {
+            background-color: #218838;
+        }
+        .translation-text {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 20px;
+            color: #495057;
+        }
+        .tips-container {
+            margin-top: 40px;
+            text-align: center;
+        }
+        .tips-container h2 {
+            font-size: 24px;
+            color: #495057;
+            margin-bottom: 20px;
+        }
+        .tips-container ul {
+            list-style: none;
+            padding: 0;
+        }
+        .tips-container ul li {
+            margin: 10px 0;
+        }
+        .tips-container ul li a {
+            color: #007bff;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s;
+        }
+        .tips-container ul li a:hover {
+            color: #0056b3;
+        }
+        .tips-container img {
+            margin-top: 20px;
+            border-radius: 8px;
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2>Sign to Speech Translator</h2>
+        <form action="/translate" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" id="fileInput" accept="video/*, image/*">
+            <label for="fileInput" class="file-upload">Upload Sign Language File</label><br>
+            <input type="submit" value="Translate" class="submit-btn">
+        </form>
+        <div class="translation-text">
+            {% if translation_text %}
+                <h3>{{ translation_text }}</h3>
+            {% endif %}
+        </div>
+    </div>
+    <div class="tips-container">
+        <h2>About Sign Language</h2>
+        <ul>
+            <li><a href="https://www.example.com/history" target="_blank">Learn the history of sign language</a></li>
+            <li><a href="https://www.example.com/tips" target="_blank">Tips for learning sign language</a></li>
+            <li><a href="https://www.example.com/community" target="_blank">Join a sign language community</a></li>
+            <li><a href="https://www.example.com/tools" target="_blank">Explore sign language tools</a></li>
+        </ul>
+        <img src="sign_language_communication.jpg" alt="Sign Language Communication">
+    </div>
+</body>
+</html>
