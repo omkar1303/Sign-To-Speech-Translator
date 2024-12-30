@@ -19,5 +19,7 @@ The methodology for a **Sign-to-Speech Translator** typically includes:
 # Result
 The **Sign-to-Speech Translator** achieved real-time translation of sign language gestures into text and speech, bridging communication gaps for hearing-impaired individuals. It demonstrated accurate gesture recognition using deep learning models and effective speech synthesis via TTS tools, providing an accessible and inclusive solution.
   - Power BI dashboard to present insights and results
+    ![image](https://github.com/user-attachments/assets/7a4a0060-99aa-4bb3-8469-874ae9ef5239)
+
     
 
