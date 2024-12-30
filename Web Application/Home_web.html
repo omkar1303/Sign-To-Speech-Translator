@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign to Speech Translator</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        .translator {
+            max-width: 1200px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 16px;
+            box-shadow: 0 6px 30px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .translator-header {
+            display: flex;
+            align-items: center;
+            background-color: #007bff;
+            padding: 15px;
+            color: #fff;
+            justify-content: space-between;
+        }
+        .translator-header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .translator-header .upload-btn {
+            background-color: #ffc107;
+            color: #333;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .translator-header .upload-btn:hover {
+            background-color: #e0a800;
+        }
+        .translator-content {
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .translator-content .upload-section {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .translator-content input[type="file"] {
+            display: none;
+        }
+        .translator-content label {
+            background-color: #007bff;
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .translator-content label:hover {
+            background-color: #0056b3;
+        }
+        .translator-content .output-section {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ced4da;
+            border-radius: 8px;
+        }
+        .translator-content .output-section h2 {
+            font-size: 20px;
+            color: #495057;
+        }
+        .translator-content .output-section p {
+            font-size: 16px;
+            color: #6c757d;
+            margin-top: 10px;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="translator">
+        <div class="translator-header">
+            <h1>Sign to Speech Translator</h1>
+            <button class="upload-btn">Help</button>
+        </div>
+        <div class="translator-content">
+            <div class="upload-section">
+                <input type="file" id="file-upload" accept="video/*, image/*">
+                <label for="file-upload">Upload Sign Language File</label>
+            </div>
+            <div class="output-section">
+                <h2>Translated Speech Output</h2>
+                <p>Your translated speech will appear here...</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
