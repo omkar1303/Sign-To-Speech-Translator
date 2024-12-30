@@ -1,0 +1,201 @@
+UserID,Name,Age,Gender,Primary Language,Usage Frequency (times/week),Average Session Duration (minutes),Total Sessions (monthly),Purpose,Feedback Rating (1-5),Improvement Suggestions,Location,Device Used
+1,User_1,32,Male,TSL,14,42.9,54,Teaching,3,Enhance speed,"London, UK",Tablet
+2,User_2,47,Male,LSQ,12,15.2,61,Learning,1,Add new languages,"Toronto, UK",Smartphone
+3,User_3,58,Female,TSL,9,39.1,26,Accessibility,5,Better UI,"Toronto, USA",Smartphone
+4,User_4,34,Male,ISL,1,47.8,57,Teaching,1,None,"Los Angeles, Canada",Laptop
+5,User_5,47,Male,ASL,11,16.7,75,Accessibility,1,Better UI,"New York, Australia",Laptop
+6,User_6,34,Other,BSL,6,27.6,81,Teaching,4,None,"London, Australia",Smartphone
+7,User_7,60,Female,LSQ,13,26.9,23,Research,1,None,"London, Australia",Smartphone
+8,User_8,18,Other,TSL,10,42.1,50,Teaching,3,None,"London, Australia",Laptop
+9,User_9,47,Male,ASL,3,51.5,40,Teaching,4,None,"Sydney, UK",Tablet
+10,User_10,36,Other,ASL,10,44.2,69,Communication,2,Enhance speed,"London, Canada",Tablet
+11,User_11,52,Male,BSL,7,59,25,Research,2,Add new languages,"Sydney, UK",Smartphone
+12,User_12,28,Female,ISL,3,33.9,44,Research,4,Add new languages,"Toronto, Canada",Tablet
+13,User_13,22,Female,BSL,3,19.1,67,Accessibility,3,None,"Los Angeles, Australia",Smartphone
+14,User_14,46,Female,BSL,3,16.7,41,Accessibility,4,Add new languages,"London, Canada",Laptop
+15,User_15,40,Other,ISL,14,45.8,28,Teaching,4,None,"Toronto, UK",Laptop
+16,User_16,55,Other,ISL,12,57.2,22,Learning,4,Add new languages,"London, Australia",Smartphone
+17,User_17,37,Male,ISL,13,11.8,16,Teaching,4,Better UI,"London, Australia",Laptop
+18,User_18,58,Female,ASL,10,20.1,47,Communication,1,Enhance speed,"London, USA",Tablet
+19,User_19,45,Other,ASL,13,49.6,59,Teaching,5,Improve accuracy,"Sydney, UK",Laptop
+20,User_20,34,Male,LSQ,3,54.3,88,Communication,2,None,"Sydney, UK",Laptop
+21,User_21,47,Other,LSQ,12,25.8,63,Teaching,3,Better UI,"Sydney, USA",Tablet
+22,User_22,37,Male,BSL,8,25.5,41,Accessibility,1,Better UI,"Toronto, UK",Tablet
+23,User_23,30,Other,BSL,1,29.9,30,Teaching,2,Enhance speed,"Toronto, Canada",Smartphone
+24,User_24,42,Other,LSQ,7,50.8,51,Accessibility,5,Enhance speed,"New York, Australia",Laptop
+25,User_25,48,Other,TSL,6,33.7,83,Learning,4,None,"Toronto, UK",Smartphone
+26,User_26,24,Female,BSL,11,11.8,50,Learning,5,None,"London, UK",Smartphone
+27,User_27,33,Female,TSL,12,42.3,34,Research,2,Better UI,"London, UK",Tablet
+28,User_28,42,Other,TSL,4,24.3,30,Teaching,2,Better UI,"Toronto, Australia",Smartphone
+29,User_29,54,Male,ISL,8,53.1,73,Research,1,Enhance speed,"New York, Australia",Smartphone
+30,User_30,40,Male,ASL,10,12.4,75,Teaching,1,None,"Sydney, Australia",Laptop
+31,User_31,54,Female,LSQ,5,42.8,69,Learning,3,None,"Sydney, Australia",Smartphone
+32,User_32,36,Female,ASL,13,23.7,73,Communication,4,Better UI,"Sydney, Australia",Smartphone
+33,User_33,36,Female,LSQ,12,50,49,Research,5,Improve accuracy,"Sydney, USA",Smartphone
+34,User_34,19,Other,ASL,13,31.8,73,Research,4,Better UI,"London, USA",Laptop
+35,User_35,60,Male,LSQ,8,30,12,Learning,5,Improve accuracy,"New York, UK",Tablet
+36,User_36,43,Female,ASL,4,32,21,Learning,4,None,"London, UK",Laptop
+37,User_37,35,Other,ISL,9,57.8,60,Communication,2,Better UI,"Sydney, USA",Tablet
+38,User_38,18,Female,TSL,4,27,74,Research,2,Enhance speed,"Sydney, Australia",Tablet
+39,User_39,54,Male,LSQ,5,19.3,68,Learning,4,Add new languages,"London, Australia",Tablet
+40,User_40,21,Male,TSL,13,44.6,40,Learning,3,None,"New York, USA",Laptop
+41,User_41,56,Female,LSQ,13,28.4,37,Communication,2,None,"New York, Canada",Laptop
+42,User_42,49,Other,LSQ,8,49.9,84,Communication,3,Better UI,"Los Angeles, UK",Tablet
+43,User_43,36,Male,ISL,14,23.3,55,Accessibility,2,Add new languages,"Toronto, Canada",Laptop
+44,User_44,32,Male,ASL,4,14.1,16,Teaching,1,Add new languages,"Toronto, Australia",Smartphone
+45,User_45,56,Male,LSQ,6,31.2,16,Accessibility,1,Add new languages,"Sydney, UK",Tablet
+46,User_46,40,Female,ASL,11,31.5,46,Communication,4,Better UI,"London, USA",Tablet
+47,User_47,32,Other,ISL,10,59.8,73,Learning,5,Better UI,"Toronto, USA",Tablet
+48,User_48,58,Other,BSL,8,19,86,Communication,1,Improve accuracy,"London, Australia",Tablet
+49,User_49,30,Other,TSL,8,24.7,93,Research,2,Improve accuracy,"New York, USA",Smartphone
+50,User_50,57,Other,LSQ,13,15.1,96,Learning,2,Improve accuracy,"Los Angeles, Canada",Laptop
+51,User_51,34,Other,ISL,5,26.4,70,Accessibility,1,Enhance speed,"London, Canada",Smartphone
+52,User_52,60,Female,ASL,13,24.8,46,Accessibility,1,None,"Toronto, UK",Laptop
+53,User_53,26,Female,LSQ,7,32.3,78,Accessibility,5,Improve accuracy,"Sydney, Australia",Smartphone
+54,User_54,58,Other,ASL,9,45.9,11,Learning,1,Enhance speed,"London, Australia",Tablet
+55,User_55,24,Other,BSL,9,18.3,23,Teaching,4,Enhance speed,"New York, Australia",Smartphone
+56,User_56,58,Female,LSQ,7,32.2,65,Teaching,5,Better UI,"Toronto, Canada",Smartphone
+57,User_57,59,Female,TSL,3,32.4,27,Teaching,1,Add new languages,"New York, Canada",Tablet
+58,User_58,20,Other,LSQ,14,46.3,43,Communication,2,Add new languages,"New York, USA",Laptop
+59,User_59,37,Other,TSL,4,55.6,56,Communication,1,Improve accuracy,"New York, Canada",Laptop
+60,User_60,46,Female,ASL,13,40.7,61,Research,4,None,"New York, UK",Tablet
+61,User_61,20,Male,LSQ,10,31.7,56,Learning,4,None,"Los Angeles, UK",Tablet
+62,User_62,55,Other,ISL,3,42,15,Research,2,None,"Sydney, UK",Tablet
+63,User_63,41,Male,ISL,14,49.6,61,Communication,5,Enhance speed,"London, Australia",Tablet
+64,User_64,26,Other,BSL,5,12.9,16,Learning,2,Enhance speed,"Toronto, UK",Tablet
+65,User_65,23,Other,ISL,1,43.6,82,Accessibility,1,Enhance speed,"Toronto, UK",Smartphone
+66,User_66,36,Other,BSL,11,30.3,81,Learning,2,Better UI,"Los Angeles, Australia",Laptop
+67,User_67,38,Other,ASL,8,35.7,34,Communication,5,Enhance speed,"Toronto, USA",Tablet
+68,User_68,44,Male,TSL,14,47.5,56,Accessibility,3,None,"Sydney, UK",Laptop
+69,User_69,29,Female,ASL,6,18,80,Accessibility,2,None,"Toronto, Australia",Tablet
+70,User_70,30,Female,TSL,9,11.6,46,Learning,5,Add new languages,"Toronto, USA",Smartphone
+71,User_71,26,Male,TSL,2,52.4,19,Teaching,3,None,"Los Angeles, UK",Smartphone
+72,User_72,52,Female,BSL,12,43.9,59,Communication,5,Enhance speed,"London, USA",Smartphone
+73,User_73,41,Female,ISL,14,31.9,74,Communication,5,Enhance speed,"Sydney, USA",Smartphone
+74,User_74,51,Female,ISL,9,16.3,67,Teaching,3,Improve accuracy,"Sydney, UK",Laptop
+75,User_75,50,Female,BSL,14,21.8,80,Research,2,Better UI,"London, Canada",Smartphone
+76,User_76,35,Female,BSL,2,42.3,45,Research,3,None,"Los Angeles, Australia",Laptop
+77,User_77,28,Other,ASL,5,28.1,89,Communication,2,Better UI,"New York, Canada",Tablet
+78,User_78,34,Male,BSL,2,57.5,97,Teaching,5,None,"Toronto, Canada",Tablet
+79,User_79,48,Female,ISL,13,11.6,88,Teaching,2,Add new languages,"Sydney, Australia",Smartphone
+80,User_80,36,Female,BSL,3,17.7,25,Accessibility,4,Add new languages,"Sydney, Australia",Laptop
+81,User_81,39,Female,BSL,5,32.5,26,Research,3,Better UI,"Sydney, USA",Tablet
+82,User_82,25,Other,TSL,8,28.5,22,Research,3,Enhance speed,"London, Canada",Tablet
+83,User_83,47,Female,BSL,9,32.2,60,Accessibility,1,Improve accuracy,"Toronto, UK",Tablet
+84,User_84,22,Female,ASL,3,13.8,57,Learning,5,None,"London, USA",Tablet
+85,User_85,27,Male,BSL,14,16.9,53,Research,5,None,"Los Angeles, Canada",Smartphone
+86,User_86,32,Other,LSQ,7,28.3,81,Accessibility,2,Improve accuracy,"New York, UK",Smartphone
+87,User_87,43,Female,LSQ,2,25.7,56,Teaching,4,Better UI,"London, USA",Smartphone
+88,User_88,53,Male,TSL,4,23.9,28,Learning,5,Better UI,"Los Angeles, Canada",Tablet
+89,User_89,41,Male,TSL,14,58,35,Communication,4,None,"Los Angeles, Australia",Smartphone
+90,User_90,23,Male,LSQ,8,11.3,87,Teaching,1,Add new languages,"Toronto, UK",Tablet
+91,User_91,43,Male,TSL,6,19.3,75,Learning,3,Improve accuracy,"Sydney, Australia",Smartphone
+92,User_92,18,Female,TSL,1,35.9,61,Accessibility,4,None,"Toronto, UK",Smartphone
+93,User_93,34,Male,ISL,7,55.7,74,Teaching,5,Add new languages,"Toronto, UK",Laptop
+94,User_94,52,Other,ISL,1,15.9,15,Learning,3,Better UI,"Sydney, UK",Laptop
+95,User_95,25,Other,BSL,7,48.7,15,Communication,4,Add new languages,"Toronto, Canada",Tablet
+96,User_96,47,Female,LSQ,9,45.2,14,Teaching,4,Enhance speed,"Los Angeles, UK",Tablet
+97,User_97,41,Male,ASL,6,20.7,27,Teaching,2,None,"London, Australia",Tablet
+98,User_98,34,Other,LSQ,4,40.6,52,Research,3,Improve accuracy,"Sydney, USA",Laptop
+99,User_99,55,Male,LSQ,7,44.7,70,Learning,4,Add new languages,"London, USA",Smartphone
+100,User_100,42,Other,ISL,2,59.9,76,Learning,2,Better UI,"Toronto, UK",Laptop
+101,User_101,58,Other,ISL,6,20,68,Research,5,Add new languages,"Los Angeles, Australia",Smartphone
+102,User_102,41,Other,TSL,4,16.8,29,Accessibility,4,Better UI,"Sydney, Australia",Tablet
+103,User_103,24,Female,ASL,1,13.7,87,Accessibility,2,Enhance speed,"Toronto, Australia",Laptop
+104,User_104,32,Other,ISL,6,18.6,75,Research,2,Better UI,"Toronto, Australia",Tablet
+105,User_105,48,Male,TSL,2,45.7,27,Teaching,3,Improve accuracy,"Toronto, UK",Smartphone
+106,User_106,19,Female,ASL,14,59.9,51,Communication,2,Enhance speed,"New York, USA",Smartphone
+107,User_107,57,Female,ISL,12,50.5,88,Accessibility,4,Add new languages,"Los Angeles, Canada",Laptop
+108,User_108,53,Other,LSQ,11,58.4,50,Communication,1,None,"New York, Canada",Laptop
+109,User_109,38,Female,LSQ,6,59.3,30,Learning,5,Better UI,"Los Angeles, Canada",Laptop
+110,User_110,57,Other,ASL,13,43.4,60,Learning,4,Improve accuracy,"Los Angeles, Australia",Tablet
+111,User_111,32,Male,ASL,3,45.5,88,Accessibility,4,None,"Sydney, Australia",Smartphone
+112,User_112,59,Female,ISL,3,37.5,48,Teaching,5,None,"Sydney, USA",Laptop
+113,User_113,22,Other,ISL,1,24.5,85,Learning,5,Enhance speed,"Sydney, USA",Tablet
+114,User_114,58,Female,ASL,5,25,53,Communication,2,Add new languages,"London, Canada",Tablet
+115,User_115,47,Female,ASL,14,17.9,74,Teaching,4,None,"Sydney, USA",Tablet
+116,User_116,37,Male,TSL,8,45.5,75,Accessibility,2,Improve accuracy,"Toronto, UK",Smartphone
+117,User_117,59,Other,TSL,12,45,78,Learning,3,Better UI,"Toronto, USA",Laptop
+118,User_118,44,Other,TSL,14,18.7,72,Accessibility,2,Better UI,"Los Angeles, Canada",Laptop
+119,User_119,25,Male,LSQ,3,28.1,100,Teaching,3,Better UI,"New York, Australia",Tablet
+120,User_120,26,Male,LSQ,13,21.2,82,Teaching,1,Enhance speed,"London, Canada",Laptop
+121,User_121,20,Other,TSL,12,59.3,48,Teaching,4,Improve accuracy,"New York, Australia",Smartphone
+122,User_122,20,Female,TSL,8,49.6,70,Research,3,None,"New York, UK",Laptop
+123,User_123,37,Male,ASL,8,21.8,12,Research,1,Improve accuracy,"Los Angeles, Canada",Tablet
+124,User_124,49,Male,LSQ,10,34.7,57,Communication,5,Enhance speed,"Sydney, Australia",Smartphone
+125,User_125,25,Female,TSL,1,28,52,Teaching,2,Enhance speed,"Los Angeles, UK",Laptop
+126,User_126,24,Other,BSL,2,38.6,96,Teaching,1,Add new languages,"Los Angeles, UK",Smartphone
+127,User_127,33,Female,ISL,1,33.4,24,Learning,3,Improve accuracy,"New York, Canada",Laptop
+128,User_128,52,Male,TSL,5,59.2,63,Communication,4,Better UI,"Sydney, Canada",Smartphone
+129,User_129,26,Female,LSQ,4,16.5,84,Communication,5,Enhance speed,"Sydney, UK",Tablet
+130,User_130,42,Other,TSL,14,54.2,49,Accessibility,5,Enhance speed,"London, Canada",Tablet
+131,User_131,47,Male,BSL,3,13.3,98,Teaching,1,Add new languages,"London, Canada",Tablet
+132,User_132,41,Female,ASL,9,29.9,90,Learning,1,Better UI,"Sydney, USA",Smartphone
+133,User_133,60,Other,LSQ,12,45.8,13,Accessibility,2,Enhance speed,"Los Angeles, Australia",Smartphone
+134,User_134,52,Other,ASL,10,33.9,86,Research,5,None,"New York, Canada",Tablet
+135,User_135,44,Other,ISL,9,30.5,70,Teaching,5,Better UI,"Los Angeles, UK",Tablet
+136,User_136,55,Other,ASL,7,30.5,43,Communication,2,Improve accuracy,"Los Angeles, UK",Smartphone
+137,User_137,27,Other,TSL,2,38.7,93,Teaching,4,Add new languages,"London, UK",Smartphone
+138,User_138,44,Other,BSL,13,16.3,84,Teaching,2,None,"Toronto, Australia",Smartphone
+139,User_139,59,Male,ASL,5,25.9,83,Research,3,None,"Los Angeles, Canada",Smartphone
+140,User_140,24,Other,BSL,4,13.7,39,Learning,3,Improve accuracy,"Toronto, Australia",Smartphone
+141,User_141,49,Other,LSQ,5,33.3,16,Learning,1,Add new languages,"Toronto, USA",Laptop
+142,User_142,57,Other,LSQ,2,35.9,84,Learning,2,Enhance speed,"New York, Australia",Laptop
+143,User_143,44,Female,TSL,1,16.4,71,Accessibility,2,Add new languages,"Sydney, Canada",Laptop
+144,User_144,35,Male,TSL,4,51.5,31,Learning,1,Enhance speed,"London, Australia",Smartphone
+145,User_145,20,Male,TSL,7,37.6,77,Accessibility,4,Improve accuracy,"Toronto, Canada",Smartphone
+146,User_146,41,Female,BSL,11,39.4,90,Research,2,Improve accuracy,"Sydney, USA",Smartphone
+147,User_147,31,Other,ISL,13,48.4,89,Teaching,5,None,"New York, Australia",Tablet
+148,User_148,46,Female,ISL,10,16.5,58,Accessibility,2,None,"London, USA",Tablet
+149,User_149,46,Female,ISL,8,35.1,28,Research,4,None,"Sydney, Australia",Tablet
+150,User_150,33,Female,LSQ,2,53.4,97,Accessibility,2,Improve accuracy,"Los Angeles, Australia",Tablet
+151,User_151,41,Male,LSQ,2,51.6,41,Research,5,Enhance speed,"Los Angeles, Australia",Laptop
+152,User_152,24,Male,ISL,14,35.9,14,Learning,3,Improve accuracy,"London, Canada",Smartphone
+153,User_153,41,Male,TSL,8,25.2,83,Learning,3,Improve accuracy,"London, Canada",Laptop
+154,User_154,52,Other,ASL,10,18.1,99,Research,4,None,"Sydney, UK",Smartphone
+155,User_155,59,Other,ISL,9,56.7,24,Communication,4,Add new languages,"Sydney, Australia",Laptop
+156,User_156,40,Female,ASL,1,21.3,34,Research,5,None,"London, USA",Tablet
+157,User_157,21,Male,ISL,11,57.4,12,Accessibility,3,Add new languages,"New York, USA",Laptop
+158,User_158,43,Male,ASL,9,35.9,66,Research,3,Enhance speed,"Toronto, USA",Laptop
+159,User_159,35,Other,TSL,10,24.2,50,Teaching,3,Enhance speed,"New York, UK",Smartphone
+160,User_160,30,Other,LSQ,4,13.9,63,Communication,3,Better UI,"Toronto, Australia",Tablet
+161,User_161,25,Male,ISL,12,19.8,29,Research,5,Better UI,"New York, Australia",Laptop
+162,User_162,47,Male,ISL,3,57.8,62,Communication,4,Better UI,"Los Angeles, UK",Smartphone
+163,User_163,23,Other,TSL,5,23.7,98,Communication,4,Enhance speed,"London, UK",Tablet
+164,User_164,60,Other,BSL,7,41.3,36,Research,1,None,"London, USA",Tablet
+165,User_165,31,Male,ISL,1,40.7,62,Research,4,None,"London, Canada",Smartphone
+166,User_166,59,Female,ASL,10,14.7,74,Learning,3,None,"New York, Canada",Smartphone
+167,User_167,58,Female,TSL,6,42,88,Research,2,Improve accuracy,"Los Angeles, USA",Smartphone
+168,User_168,56,Female,BSL,4,39.6,70,Research,3,Better UI,"Toronto, Canada",Tablet
+169,User_169,19,Female,ISL,10,39,17,Learning,3,None,"Los Angeles, Australia",Smartphone
+170,User_170,21,Male,ISL,7,18.6,100,Learning,4,Better UI,"New York, USA",Laptop
+171,User_171,39,Female,LSQ,3,41.2,27,Teaching,1,Better UI,"New York, UK",Smartphone
+172,User_172,33,Female,BSL,11,55.1,76,Research,5,Improve accuracy,"Toronto, USA",Laptop
+173,User_173,26,Other,TSL,11,26.9,36,Accessibility,2,Enhance speed,"Los Angeles, UK",Laptop
+174,User_174,54,Female,ASL,2,56.2,81,Communication,2,None,"Sydney, Australia",Laptop
+175,User_175,31,Other,ISL,9,12.1,51,Learning,1,Improve accuracy,"New York, USA",Laptop
+176,User_176,22,Other,TSL,6,53.2,94,Research,3,Enhance speed,"London, USA",Smartphone
+177,User_177,53,Male,LSQ,2,14.1,71,Accessibility,5,Enhance speed,"Toronto, UK",Tablet
+178,User_178,31,Male,ISL,9,57.4,77,Communication,5,None,"Toronto, USA",Laptop
+179,User_179,55,Male,BSL,9,48.6,58,Research,5,Better UI,"Los Angeles, Australia",Smartphone
+180,User_180,31,Male,TSL,9,23.2,50,Accessibility,4,Add new languages,"New York, USA",Laptop
+181,User_181,32,Other,ASL,13,20.5,32,Communication,3,Better UI,"New York, Canada",Smartphone
+182,User_182,39,Male,LSQ,9,38.6,68,Accessibility,2,Better UI,"London, Canada",Laptop
+183,User_183,27,Other,TSL,9,40.9,78,Learning,2,Add new languages,"Los Angeles, Australia",Tablet
+184,User_184,56,Male,ISL,1,11.5,53,Research,3,Enhance speed,"Los Angeles, UK",Laptop
+185,User_185,18,Female,ASL,7,54.4,79,Accessibility,2,Add new languages,"New York, USA",Tablet
+186,User_186,35,Female,ISL,14,37.3,55,Accessibility,4,Add new languages,"Sydney, UK",Tablet
+187,User_187,27,Other,ISL,8,42.1,96,Research,5,Improve accuracy,"Toronto, Canada",Smartphone
+188,User_188,26,Female,BSL,1,25.1,97,Communication,2,Improve accuracy,"Los Angeles, UK",Laptop
+189,User_189,52,Female,BSL,11,22.2,92,Research,4,Improve accuracy,"Toronto, Australia",Laptop
+190,User_190,34,Other,ISL,7,50.4,98,Accessibility,5,Enhance speed,"Los Angeles, USA",Tablet
+191,User_191,29,Female,LSQ,6,30.3,43,Teaching,3,Add new languages,"New York, UK",Laptop
+192,User_192,25,Female,BSL,5,32.7,88,Communication,3,None,"New York, Australia",Smartphone
+193,User_193,60,Female,BSL,12,44.4,71,Accessibility,4,Add new languages,"London, Australia",Tablet
+194,User_194,19,Male,BSL,1,17.9,34,Teaching,4,Enhance speed,"London, UK",Tablet
+195,User_195,26,Other,BSL,6,30.8,41,Communication,4,Improve accuracy,"Los Angeles, Canada",Smartphone
+196,User_196,18,Male,ASL,13,33.2,45,Learning,2,Enhance speed,"New York, UK",Smartphone
+197,User_197,40,Female,ISL,2,27,81,Research,3,Improve accuracy,"Sydney, Canada",Smartphone
+198,User_198,33,Female,ASL,6,17.2,48,Communication,2,Enhance speed,"New York, Canada",Laptop
+199,User_199,55,Male,TSL,4,53.1,38,Communication,2,None,"Los Angeles, UK",Smartphone
+200,User_200,38,Female,TSL,12,26,48,Accessibility,5,Improve accuracy,"Toronto, Canada",Smartphone
